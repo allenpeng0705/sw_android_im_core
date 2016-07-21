@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AUI mode="vertical">
+	<fontSize>16</fontSize>
+	<background>land_qwerty_aui.png</background>
+	<firstArrow left="0" top="2" width="120" height="19">
+		<unselectable>land_qwerty_aui_arrow_left_dk.png</unselectable>
+		<selectable>land_qwerty_aui_arrow_left.png</selectable>
+	</firstArrow>
+	<secondArrow left="0" top="190" width="120" height="19">
+		<unselectable>land_qwerty_aui_arrow_rt_dk.png</unselectable>
+		<selectable>land_qwerty_aui_arrow_rt.png</selectable>
+	</secondArrow>		
+	<candidateHighLight begin="1" end="118">land_qwerty_aui_hilite.png</candidateHighLight>
+	<logo left="3" top="27">land_qwerty_aui_logo.png</logo>
+</AUI>

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/res/merged/debug/layout/submit_score.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/src/main/res/layout/submit_score.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/res/merged/debug/layout/balloon_game.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/src/main/res/layout/balloon_game.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/build/intermediates/res/merged/debug/layout/start_page.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/src/main/res/layout/start_page.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/build/intermediates/res/merged/debug/layout/input.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/src/main/res/layout/input.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/res/merged/debug/layout/input.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/src/main/res/layout/input.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/build/intermediates/res/merged/debug/layout/alert_dialog_input_activation_code.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/src/main/res/layout/alert_dialog_input_activation_code.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/res/merged/debug/layout/inputeng.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/src/main/res/layout/inputeng.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/build/intermediates/res/merged/debug/layout/diary_list.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/src/main/res/layout/diary_list.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/res/merged/debug/layout/command_page.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/src/main/res/layout/command_page.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/res/merged/debug/layout/layout_row.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/src/main/res/layout/layout_row.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/build/intermediates/res/merged/debug/layout/command_page.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/src/main/res/layout/command_page.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/build/intermediates/res/merged/debug/layout/inputeng.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/src/main/res/layout/inputeng.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/res/merged/debug/layout/start_page.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/src/main/res/layout/start_page.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/res/merged/debug/layout/diary_list.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/src/main/res/layout/diary_list.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/build/intermediates/res/merged/debug/layout/layout_row.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/src/main/res/layout/layout_row.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/build/intermediates/res/merged/debug/layout/submit_score.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/src/main/res/layout/submit_score.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/build/intermediates/res/merged/debug/layout/balloon_game.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/src/main/res/layout/balloon_game.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/res/merged/debug/layout/alert_dialog_input_activation_code.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/src/main/res/layout/alert_dialog_input_activation_code.xml"
+    }
+]

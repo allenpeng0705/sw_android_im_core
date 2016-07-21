@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/res/merged/debug/xml/method.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/src/main/res/xml/method.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/build/intermediates/res/merged/debug/xml/prefs.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/src/main/res/xml/prefs.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/res/merged/debug/xml/prefs.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/src/main/res/xml/prefs.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/build/intermediates/res/merged/debug/xml/method.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/src/main/res/xml/method.xml"
+    }
+]

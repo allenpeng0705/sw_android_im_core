@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/build/intermediates/res/merged/debug/raw/lex3.bin",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/src/main/res/raw/lex3.bin"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/res/merged/debug/raw/gamelexicon.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/src/main/res/raw/gamelexicon.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/res/merged/debug/raw/lex3.bin",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/src/main/res/raw/lex3.bin"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/build/intermediates/res/merged/debug/raw/lex4.bin",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/src/main/res/raw/lex4.bin"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/build/intermediates/res/merged/debug/raw/lex1.bin",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/src/main/res/raw/lex1.bin"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/res/merged/debug/raw/correct_lexicon.txt",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/src/main/res/raw/correct_lexicon.txt"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/build/intermediates/res/merged/debug/raw/gamelexicon.xml",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/src/main/res/raw/gamelexicon.xml"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/res/merged/debug/raw/lex2.bin",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/src/main/res/raw/lex2.bin"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/build/intermediates/res/merged/debug/raw/correct_lexicon.txt",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/src/main/res/raw/correct_lexicon.txt"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/res/merged/debug/raw/lex_cmd.bin",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/src/main/res/raw/lex_cmd.bin"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/res/merged/debug/raw/error_lexicon.txt",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/src/main/res/raw/error_lexicon.txt"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/res/merged/debug/raw/lex4.bin",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/src/main/res/raw/lex4.bin"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/build/intermediates/res/merged/debug/raw/lex2.bin",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/src/main/res/raw/lex2.bin"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/build/intermediates/res/merged/debug/raw/lex_cmd.bin",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/src/main/res/raw/lex_cmd.bin"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/build/intermediates/res/merged/debug/raw/error_lexicon.txt",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/src/main/res/raw/error_lexicon.txt"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/res/merged/debug/raw/lex1.bin",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/src/main/res/raw/lex1.bin"
+    }
+]

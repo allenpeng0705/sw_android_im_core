@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<keyboard name="port_num_kbd" background="number_keyboard.png" foreground="number_symbols.png">
+	<key left="0" top="0" width="64" height="52" type="symbol">
+		<label>(</label>
+		<value>(</value>
+		<value>&lt;</value>
+		<highLightImage left="3" top="7">number_1_hilite.png</highLightImage>
+	</key>
+	<key left="64" top="0" width="64" height="52" type="number">
+		<label>1</label>
+		<value>1</value>
+		<value>=</value>
+		<highLightImage left="67" top="2">number_2_hilite.png</highLightImage>
+	</key>
+	<key left="128" top="0" width="64" height="52" type="number">
+		<label>2</label>
+		<value>2</value>
+		<value>*</value>
+		<highLightImage left="131" top="2">number_2_hilite.png</highLightImage>
+	</key>
+	<key left="192" top="0" width="64" height="52" type="number">
+		<label>3</label>
+		<value>3</value>
+		<value>%</value>
+		<highLightImage left="195" top="2">number_2_hilite.png</highLightImage>
+	</key>
+	<key left="256" top="0" width="64" height="52" type="symbol">
+		<label>)</label>
+		<value>)</value>
+		<value>&gt;</value>
+		<highLightImage left="259" top="7">number_1_hilite.png</highLightImage>
+	</key>
+	
+	<key left="0" top="52" width="64" height="53" type="symbol">
+		<label>.</label>
+		<value>.</value>
+		<value>!</value>
+		<highLightImage left="3" top="60">number_1_hilite.png</highLightImage>
+	</key>
+	<key left="64" top="52" width="64" height="53" type="number">
+		<label>4</label>
+		<value>4</value>
+		<value>$</value>
+		<highLightImage left="67" top="55">number_2_hilite.png</highLightImage>
+	</key>
+	<key left="128" top="52" width="64" height="53" type="number">
+		<label>5</label>
+		<value>5</value>
+		<value>€</value>
+		<highLightImage left="131" top="55">number_2_hilite.png</highLightImage>
+	</key>
+	<key left="192" top="52" width="64" height="53" type="number">
+		<label>6</label>
+		<value>6</value>
+		<value>£</value>
+		<highLightImage left="195" top="55">number_2_hilite.png</highLightImage>
+	</key>
+	<key left="256" top="52" width="64" height="53" type="function">
+		<label>backspace</label>
+		<value>BACKSPACE</value>
+		<highLightImage left="259" top="60">number_1_hilite.png</highLightImage>
+	</key>
+	
+	<key left="0" top="105" width="64" height="52" type="symbol">
+		<label>/</label>
+		<value>/</value>
+		<value>?</value>
+		<highLightImage left="3" top="113">number_1_hilite.png</highLightImage>
+	</key>
+	<key left="64" top="105" width="64" height="52" type="number">
+		<label>7</label>
+		<value>7</value>
+		<value>#</value>
+		<highLightImage left="67" top="108">number_2_hilite.png</highLightImage>
+	</key>
+	<key left="128" top="105" width="64" height="52" type="number">
+		<label>8</label>
+		<value>8</value>
+		<value>{</value>
+		<highLightImage left="131" top="108">number_2_hilite.png</highLightImage>
+	</key>
+	<key left="192" top="105" width="64" height="52" type="number">
+		<label>9</label>
+		<value>9</value>
+		<value>}</value>
+		<highLightImage left="195" top="108">number_2_hilite.png</highLightImage>
+	</key>
+	<key left="256" top="105" width="64" height="52" type="function">
+		<label>enter</label>
+		<value>ENTER</value>
+		<highLightImage left="259" top="113">number_1_hilite.png</highLightImage>
+	</key>
+	
+	<key left="0" top="157" width="64" height="55" type="function">
+		<label>space</label>
+		<value>SPACE</value>
+		<highLightImage left="3" top="166">number_1_hilite.png</highLightImage>
+	</key>
+	<key left="64" top="157" width="64" height="55" type="symbol">
+		<label>+</label>
+		<value>+</value>
+		<highLightImage left="67" top="166">number_1_hilite.png</highLightImage>
+	</key>
+	<key left="128" top="157" width="64" height="55" type="number">
+		<label>0</label>
+		<value>0</value>
+		<highLightImage left="131" top="161">number_2_hilite.png</highLightImage>
+	</key>
+	<key left="192" top="157" width="64" height="55" type="symbol">
+		<label>-</label>
+		<value>-</value>
+		<highLightImage left="195" top="166">number_1_hilite.png</highLightImage>
+	</key>
+	<key left="256" top="157" width="64" height="55" type="function">
+		<label>alpha</label>
+		<value>ALPHA</value>
+		<highLightImage left="259" top="166">number_1_hilite.png</highLightImage>
+	</key>
+</keyboard>

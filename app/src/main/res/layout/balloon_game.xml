@@ -1,0 +1,12 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+
+	<com.shapewriter.android.softkeyboard.game.SWI_BalloonGameView
+		android:id="@+id/mainGameEntryBox" android:layout_width="fill_parent"
+		android:layout_height="223dip" android:gravity="top" />
+	<com.shapewriter.android.softkeyboard.game.SWI_GameTextEditor
+		android:id="@+id/gameInputEditor" android:layout_width="0dip"
+		android:layout_height="0dip" android:text=""
+ />
+</LinearLayout>

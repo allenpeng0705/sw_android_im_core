@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/build/intermediates/res/merged/debug/drawable-ldpi/command_page.png",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/src/main/res/drawable-ldpi/command_page.png"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/res/merged/debug/drawable-ldpi/start_show.png",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/src/main/res/drawable-ldpi/start_show.png"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/res/merged/debug/drawable-ldpi/command_page.png",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/src/main/res/drawable-ldpi/command_page.png"
+    },
+    {
+        "merged": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/build/intermediates/res/merged/debug/drawable-ldpi/start_show.png",
+        "source": "/Users/allen.peng/Desktop/test/im_en_android/trunk/project3/app/src/main/res/drawable-ldpi/start_show.png"
+    }
+]

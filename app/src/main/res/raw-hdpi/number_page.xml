@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page width="480" height="361" type="number" name="number_portrait">
+		<traceable>false</traceable>
+		<keyboard left="0" top="0" width="480" height="361">port_number_keyboard.xml</keyboard>
+		<marginground>number_margin.png</marginground>
+</page>

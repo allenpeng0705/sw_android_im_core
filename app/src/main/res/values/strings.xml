@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">ShapeWriter keyboard</string>
+	<string name="word_separators">\u0020.,;:!?\n()[]*&amp;@{}/&lt;&gt;_+=|&quot;</string>
+    <string name="shapewriter_ime_settings">ShapeWriter keyboard settings</string>
+    <string name="vibrate_on_keypress">Vibrate on keypress</string>    
+    <string name="sound_on_keypress">Sound on keypress</string>
+    <string name="ideal_shape">Show ideal shape</string>
+    
+    <string name="auto_cap">Disable editing feature</string>
+    <string name="auto_cap_summary">Capitalize the start of a sentence</string>
+    
+    <string name="auto_correction">Word suggestions</string>
+    <string name="auto_correction_summary">Automatically correct the previous word</string>
+    
+    <string name="show_suggestions">Show suggestions</string>    
+    <string name="show_suggestions_summary">Display suggested words while typing</string>
+    
+    <string name="activation_category">Activation settings</string>    
+    <string name="activation_summary">Enable auto completion while typing</string>
+    
+    <string name="activation_code">Activation</string>
+    <string name="activation_code_title">Activation Code</string>
+    
+    <string name="game_category">Game</string>
+    
+     <string name="start_game">Start balloon game</string>
+    
+    <string name="game_title">ShapeWriter Balloon Game</string>
+    <string name="game_option_title">Choose A Game Level</string>
+	<string-array name="game_option_level">
+		<item>Level 1</item>
+		<item>Level 2</item>
+		<item>Level 3</item>
+	</string-array>
+	
+	<string name="game_exit_options_title">Current Score:</string>
+	<string-array name="game_exit_options">
+		<item>Cancel(Continue Playing)</item>
+		<item>Submit This Score</item>
+		<item>Check Score Board</item>
+		<item>Discard and Restart</item>
+		<item>Back</item>
+	</string-array>
+	
+	<string name="game_option_ok">OK</string>
+	<string name="game_option_cancel">Cancel</string>
+	
+	<string name="preference_keyboard_layout">User Dictionary Manager</string>
+	<string-array name="preference_keyboard_layout_entries">
+	</string-array>
+	<string-array name="preference_keyboard_layout_values">	
+	</string-array>
+	<string name="user_dictionary_summary">Add &amp; delete words from ShapeWriter user dictionary</string>
+	
+	<string name="legal_symbol_set">az</string>
+	
+	<string name="language_category">Language</string>
+	<string name="uninstalled_tip">Not Installed. Click to download from Android Market.</string>
+	<string name="installed_tip">Installed.</string>
+	
+	<string name="English">English</string>
+	<string name="French">Français</string>
+	<string name="Italian">Italiano</string>
+	<string name="Spanish">Español</string>
+	<string name="German">Deutsch</string>
+	<string name="Chinese">中文</string>
+	<string name="Swedish">Svenska</string>
+	<string name="FrenchQwerty">Français Qwerty</string>
+	<string name="Danish">Dansk</string>
+	<string name="Turkish">Türkçe</string>
+	
+</resources>

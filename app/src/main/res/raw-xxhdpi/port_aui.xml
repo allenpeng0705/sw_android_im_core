@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AUI mode="horizontal">
+	<fontSize>22</fontSize>
+	<basicLine>36</basicLine>
+	<background>port_qwerty_aui.png</background>
+	<firstArrow left="0" top="6" width="24" height="65">
+		<unselectable>port_qwerty_aui_arrow_left_dk.png</unselectable>
+		<selectable>port_qwerty_aui_arrow_left.png</selectable>
+	</firstArrow>
+	<secondArrow left="454" top="6" width="24" height="65">
+		<unselectable>port_qwerty_aui_arrow_rt_dk.png</unselectable>
+		<selectable>port_qwerty_aui_arrow_rt.png</selectable>
+	</secondArrow>		
+	<candidateHighLight begin="2" end="56">port_qwerty_aui_hilite.png</candidateHighLight>
+	<logo left="32" top="3">port_qwerty_aui_logo.png</logo>
+</AUI>

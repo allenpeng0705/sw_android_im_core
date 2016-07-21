@@ -1,0 +1,7 @@
+#Wed Jul 20 12:17:03 CST 2016
+base.0=/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2990a1eac0b15d33871b9d9eeccf1820ba844664
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_18acc833c2c52acb7bf2e9bf62e4fb2473385e7a/classes.dex
+base.1=/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_18acc833c2c52acb7bf2e9bf62e4fb2473385e7a
+file.0=/Users/allen.peng/Desktop/test/im_en_android/trunk/sw_en_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2990a1eac0b15d33871b9d9eeccf1820ba844664/classes.dex

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page width="680" height="361" type="landscape" name="eng_qwerty_landscape">
+	<traceable>true</traceable>	
+	<AUI left="0" top="0" width="200" height="361">land_aui.xml</AUI>
+	<keyboard left="200" top="0" width="480" height="361">port_keyboard.xml</keyboard>
+	<marginground>land_qwerty_margin.png</marginground>
+</page>

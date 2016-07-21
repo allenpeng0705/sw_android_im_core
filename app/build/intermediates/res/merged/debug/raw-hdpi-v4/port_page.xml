@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page width="480" height="426" type="qwerty" name="eng_qwerty_portrait">
+	<traceable>true</traceable>
+	<AUI left="0" top="0" width="480" height="65">port_aui.xml</AUI>
+	<keyboard left="0" top="65" width="480" height="361">port_keyboard.xml</keyboard>
+	<marginground>port_qwerty_margin.png</marginground>
+</page>

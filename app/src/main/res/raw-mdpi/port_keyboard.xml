@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<keyboard name="eng_port_qwerty_keyboard" background="qwerty_keys.png" foreground="eng_qwerty_symbols.png">
+	<key left="0" top="2" width="32" height="55" type="alpha">
+		<label>q</label>
+		<value>q</value>
+		<value>1</value>
+		<map>q</map>
+		<highLightImage left="1" top="8">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="32" top="2" width="32" height="55" type="alpha">
+		<label>w</label>
+		<value>w</value>
+		<value>2</value>
+		<map>w</map>
+		<highLightImage left="33" top="8">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="64" top="2" width="32" height="55" type="alpha">
+		<label>e</label>
+		<value>e</value>
+		<value>3</value>
+		<value>è</value>
+		<value>é</value>
+		<value>ê</value>
+		<value>ë</value>
+		<map>e</map>
+		<map>è</map>
+		<map>é</map>
+		<map>ê</map>
+		<map>ë</map>
+		<highLightImage left="65" top="8">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="96" top="2" width="32" height="55" type="alpha">
+		<label>r</label>
+		<value>r</value>
+		<value>4</value>
+		<map>r</map>
+		<highLightImage left="97" top="8">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="128" top="2" width="32" height="55" type="alpha">
+		<label>t</label>
+		<value>t</value>
+		<value>5</value>
+		<map>t</map>
+		<highLightImage left="129" top="8">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="160" top="2" width="32" height="55" type="alpha">
+		<label>y</label>
+		<value>y</value>
+		<value>6</value>
+		<value>ý</value>
+		<value>ÿ</value>
+		<map>y</map>
+		<map>ý</map>
+		<map>ÿ</map>
+		<highLightImage left="161" top="8">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="192" top="2" width="32" height="55" type="alpha">
+		<label>u</label>
+		<value>u</value>
+		<value>7</value>
+		<value>ù</value>
+		<value>ú</value>
+		<value>û</value>
+		<value>ü</value>
+		<map>u</map>
+		<map>ù</map>
+		<map>ú</map>
+		<map>û</map>
+		<map>ü</map>
+		<highLightImage left="193" top="8">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="224" top="2" width="32" height="55" type="alpha">
+		<label>i</label>
+		<value>i</value>
+		<value>8</value>
+		<value>ì</value>
+		<value>í</value>
+		<value>î</value>
+		<value>ï</value>
+		<map>i</map>
+		<map>ì</map>
+		<map>í</map>
+		<map>î</map>
+		<map>ï</map>
+		<highLightImage left="225" top="8">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="256" top="2" width="32" height="55" type="alpha">
+		<label>o</label>
+		<value>o</value>
+		<value>9</value>
+		<value>ò</value>
+		<value>ó</value>
+		<value>ô</value>
+		<value>õ</value>
+		<value>ö</value>
+		<value>œ</value>
+		<value>ø</value>
+		<map>o</map>
+		<map>ò</map>
+		<map>ó</map>
+		<map>ô</map>
+		<map>õ</map>
+		<map>ö</map>
+		<map>œ</map>
+		<map>ø</map>
+		<highLightImage left="257" top="8">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="288" top="2" width="32" height="55" type="alpha">
+		<label>p</label>
+		<value>p</value>
+		<value>0</value>
+		<map>p</map>
+		<highLightImage left="289" top="8">qwerty_2_hilite.png</highLightImage>
+	</key>
+		
+	<key left="0" top="57" width="32" height="55" type="alpha">
+		<label>a</label>
+		<value>a</value>
+		<value>!</value>
+		<value>à</value>
+		<value>á</value>
+		<value>â</value>
+		<value>ã</value>
+		<value>ä</value>
+		<value>å</value>
+		<value>æ</value>
+		<map>a</map>
+		<map>à</map>
+		<map>á</map>
+		<map>â</map>
+		<map>ã</map>
+		<map>ä</map>
+		<map>å</map>
+		<map>æ</map>
+		<highLightImage left="2" top="63">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="32" top="57" width="32" height="55" type="alpha">
+		<label>s</label>
+		<value>s</value>
+		<value>#</value>
+		<value>§</value>
+		<value>ß</value>
+		<map>s</map>
+		<map>§</map>
+		<map>ß</map>
+		<highLightImage left="33" top="63">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="64" top="57" width="32" height="55" type="alpha">
+		<label>d</label>
+		<value>d</value>
+		<value>$</value>
+		<map>d</map>
+		<highLightImage left="65" top="63">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="96" top="57" width="32" height="55" type="alpha">
+		<label>f</label>
+		<value>f</value>
+		<value>%</value>
+		<map>f</map>
+		<highLightImage left="97" top="63">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="128" top="57" width="32" height="55" type="alpha">
+		<label>g</label>
+		<value>g</value>
+		<value>^</value>
+		<map>g</map>
+		<highLightImage left="129" top="63">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="160" top="57" width="32" height="55" type="alpha">
+		<label>h</label>
+		<value>h</value>
+		<value>&amp;</value>
+		<map>h</map>
+		<highLightImage left="161" top="63">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="192" top="57" width="32" height="55" type="alpha">
+		<label>j</label>
+		<value>j</value>
+		<value>*</value>
+		<map>j</map>
+		<highLightImage left="193" top="63">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="224" top="57" width="32" height="55" type="alpha">
+		<label>k</label>
+		<value>k</value>
+		<value>(</value>
+		<map>k</map>
+		<highLightImage left="225" top="63">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="256" top="57" width="32" height="55" type="alpha">
+		<label>l</label>
+		<value>l</value>
+		<value>)</value>
+		<map>l</map>
+		<highLightImage left="257" top="63">qwerty_2_hilite.png</highLightImage>
+	</key>		
+	<key left="288" top="57" width="32" height="55" type="function">
+		<label>case</label>
+		<value>CASE</value>
+		<highLightImage left="289" top="69">qwerty_1_hilite.png</highLightImage>
+	</key>
+	
+
+	<key left="0" top="112" width="32" height="55" type="function">
+		<label>language</label>
+		<value>Language</value>
+		<highLightImage left="1" top="125">qwerty_1_hilite.png</highLightImage>
+	</key>
+	<key left="0" top="167" width="32" height="45" type="symbol">
+		<label>@</label>
+		<value>@</value>
+		<value>#</value>
+		<value>$</value>
+		<value>%</value>
+		<value>^</value>
+		<value>&amp;</value>
+		<value>*</value>
+		<value>~</value>
+		<value>-</value>
+		<value>_</value>
+		<value>+</value>
+		<value>=</value>
+		<highLightImage left="1" top="174">qwerty_1_hilite.png</highLightImage>
+	</key>
+	<key left="32" top="167" width="32" height="45" type="symbol">
+		<label>:)</label>
+		<value>:)</value>
+		<value>:(</value>
+		<value>;)</value>
+		<value>(</value>
+		<value>)</value>
+		<value>[</value>
+		<value>]</value>
+		<value>{</value>
+		<value>}</value>
+		<value>&lt;</value>
+		<value>&gt;</value>
+		<value>/</value>
+		<value>\</value>
+		<value>|</value>
+		<highLightImage left="33" top="174">qwerty_1_hilite.png</highLightImage>
+	</key>
+	<key left="112" top="167" width="80" height="45" type="function">
+		<label>space</label>
+		<value>SPACE</value>
+		<highLightImage left="113" top="174">qwerty_5_hilite.png</highLightImage>
+	</key>
+	<key left="192" top="167" width="32" height="45" type="symbol">
+		<label>.</label>
+		<value>.</value>
+		<value>,</value>
+		<value>&apos;</value>
+		<value>&quot;</value>
+		<value>·</value>
+		<value>;</value>
+		<value>:</value>
+		<value>!</value>
+		<value>?</value>
+		<highLightImage left="193" top="174">qwerty_1_hilite.png</highLightImage>
+	</key>
+	
+	<key left="272" top="167" width="48" height="45" type="function">
+		<label>number</label>
+		<value>NUMBERS</value>
+		<highLightImage left="273" top="174">qwerty_3_hilite.png</highLightImage>
+	</key>
+	<key left="64" top="167" width="48" height="45" type="command">
+		<label>command</label>
+		<value>Cmd</value>
+		<map>#</map>
+		<highLightImage left="65" top="174">qwerty_3_hilite.png</highLightImage>
+	</key>
+
+	<key left="32" top="112" width="32" height="55" type="alpha">
+		<label>z</label>
+		<value>z</value>
+		<value>,</value>
+		<map>z</map>
+		<highLightImage left="33" top="118">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="64" top="112" width="32" height="55" type="alpha">
+		<label>x</label>
+		<value>x</value>
+		<value>:</value>
+		<map>x</map>
+		<highLightImage left="65" top="118">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="96" top="112" width="32" height="55" type="alpha">
+		<label>c</label>
+		<value>c</value>
+		<value>;</value>
+		<value>ç</value>
+		<map>c</map>
+		<map>ç</map>
+		<highLightImage left="97" top="118">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="128" top="112" width="32" height="55" type="alpha">
+		<label>v</label>
+		<value>v</value>
+		<value>'</value>
+		<map>v</map>
+		<highLightImage left="129" top="118">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="160" top="112" width="32" height="55" type="alpha">
+		<label>b</label>
+		<value>b</value>
+		<value>"</value>
+		<map>b</map>
+		<highLightImage left="161" top="118">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="192" top="112" width="32" height="55" type="alpha">
+		<label>n</label>
+		<value>n</value>
+		<value>?</value>
+		<value>ñ</value>
+		<map>n</map>
+		<map>ñ</map>
+		<highLightImage left="193" top="118">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="224" top="112" width="32" height="55" type="alpha">
+		<label>m</label>
+		<value>m</value>
+		<value>/</value>
+		<map>m</map>
+		<highLightImage left="225" top="118">qwerty_2_hilite.png</highLightImage>
+	</key>
+	<key left="224" top="167" width="48" height="45" type="function">
+		<label>enter</label>
+		<value>ENTER</value>
+		<highLightImage left="225" top="174">qwerty_3_hilite.png</highLightImage>
+	</key>
+	<key left="256" top="112" width="78" height="55" type="function">
+		<label>backspace</label>
+		<value>BACKSPACE</value>
+		<highLightImage left="257" top="125">qwerty_4_hilite.png</highLightImage>
+	</key>
+
+</keyboard>
